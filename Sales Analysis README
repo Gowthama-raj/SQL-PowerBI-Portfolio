@@ -1,0 +1,40 @@
+🚀 Power BI Project: Sales Performance Analytics Dashboard
+🧠 Project Overview
+This self-developed Power BI project focuses on building an end-to-end Sales Analytics Dashboard, highlighting key KPIs such as Sales, Profit %, LBS %, and Target Attainment.
+The goal was to transform raw sales data into actionable business insights through efficient data modeling, DAX measures, and interactive visualization design.
+________________________________________
+🧩 Key Objectives
+•	Design a clean, optimized star schema data model for sales reporting.
+•	Define and calculate business KPIs and measures to support executive-level decision-making.
+•	Build an interactive, user-friendly Power BI dashboard for real-time performance analysis.
+________________________________________
+⚙️ Technical Implementation
+Data Modeling & Preparation
+•	Created a star schema model integrating fact and dimension tables for better query performance.
+•	Structured data relationships and ensured model integrity for accurate cross-filtering.
+•	Established a dedicated Measure Table for better management of DAX calculations.
+DAX & Analytics
+•	Developed DAX measures for Total Sales, Profit %, Target Achievement, and LBS %.
+•	Applied Time Intelligence functions to calculate Month-over-Month (MoM) and Year-to-Date (YTD) metrics.
+•	Fixed context-related DAX issues ensuring correct aggregations and KPI consistency.
+Visual Design & Interactivity
+•	Designed dynamic trend charts using Field Parameters for easy switching between metrics.
+•	Utilized the new Card visual with reference labels for modern KPI representation.
+•	Created Gauge charts to visualize Profit and LBS % targets.
+•	Used Group feature for building histograms and Zoom Slider for time-based analysis.
+•	Applied Conditional Formatting to highlight performance thresholds within tables.
+•	Designed a slicer panel for better user control and filtering experience.
+Advanced Features
+•	Implemented Bookmarks for navigation and interactive storytelling.
+•	Fixed bookmark issues to ensure data and filter preservation.
+•	Added tooltips for country-level insights and contextual drilldowns.
+•	Published the report to Power BI Service for sharing and stakeholder access.
+•	Hosted the project on GitHub portfolio page for professional showcasing.
+________________________________________
+📊 Outcome
+•	Delivered a visually rich dashboard that enables real-time sales and profit monitoring.
+•	Simplified management decision-making with interactive KPIs and trend visuals.
+•	Demonstrated expertise in data modeling, DAX, visualization design, and user experience.
+________________________________________
+🧰 Tools & Technologies
+Power BI | DAX | Power Query | SQL | Star Schema | GitHub
