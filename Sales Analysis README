@@ -1,14 +1,14 @@
-🚀 Power BI Project: Sales Performance Analytics Dashboard
-🧠 Project Overview
+Power BI Project: Sales Performance Analytics Dashboard 
+Project Overview :
 This self-developed Power BI project focuses on building an end-to-end Sales Analytics Dashboard, highlighting key KPIs such as Sales, Profit %, LBS %, and Target Attainment.
 The goal was to transform raw sales data into actionable business insights through efficient data modeling, DAX measures, and interactive visualization design.
 ________________________________________
-🧩 Key Objectives
+ Key Objectives :
 •	Design a clean, optimized star schema data model for sales reporting.
 •	Define and calculate business KPIs and measures to support executive-level decision-making.
 •	Build an interactive, user-friendly Power BI dashboard for real-time performance analysis.
 ________________________________________
-⚙️ Technical Implementation
+Technical Implementation :
 Data Modeling & Preparation
 •	Created a star schema model integrating fact and dimension tables for better query performance.
 •	Structured data relationships and ensured model integrity for accurate cross-filtering.
@@ -31,10 +31,10 @@ Advanced Features
 •	Published the report to Power BI Service for sharing and stakeholder access.
 •	Hosted the project on GitHub portfolio page for professional showcasing.
 ________________________________________
-📊 Outcome
+ Outcome
 •	Delivered a visually rich dashboard that enables real-time sales and profit monitoring.
 •	Simplified management decision-making with interactive KPIs and trend visuals.
 •	Demonstrated expertise in data modeling, DAX, visualization design, and user experience.
 ________________________________________
-🧰 Tools & Technologies
+Tools & Technologies
 Power BI | DAX | Power Query | SQL | Star Schema | GitHub
